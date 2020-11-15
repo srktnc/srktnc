@@ -10,10 +10,6 @@
   <a href="https://github.com/sponsors/srktnc"><img src='https://github.com/srktnc/srktnc/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
 </p>
 
-<div style="width:50px;height:50px;background:red;">
-  
-</div>
-
 <!--
 **srktnc/srktnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
