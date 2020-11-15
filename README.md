@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  <a href="https://antfu.me"><img src='https://github.com/srktnc/srktnc/raw/master/me.svg?sanitize=true' alt="Me" title="Me" height='70'/></a>
-  <a href="https://antfu.me/blog"><img src='https://github.com/srktnc/srktnc/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='70'/></a>
-  <a href="https://antfu.me/projects"><img src='https://github.com/srktnc/srktnc/raw/master/projects.svg?sanitize=true' alt="Projects" title="Projects" height='70'/></a>
-  <a href="https://twitter.com/antfu7"><img src='https://github.com/srktnc/srktnc/raw/master/tweets.svg?sanitize=true' alt="Tweets" title="Tweets" height='70'/></a>
-   <a href="https://instagram.com/antfu7"><img src='https://github.com/srktnc/srktnc/raw/master/photos.svg?sanitize=true' alt="Photos" title="Photos" height='70'/></a>
-  <a href="https://github.com/sponsors/antfu"><img src='https://github.com/srktnc/srktnc/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
+  <a href="https://srktnc.github.info"><img src='https://github.com/srktnc/srktnc/raw/master/me.svg?sanitize=true' alt="Me" title="Me" height='70'/></a>
+  <a href="https://spinozanotes.vercel.io"><img src='https://github.com/srktnc/srktnc/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='70'/></a>
+  <a href="https://srktnc.github.io"><img src='https://github.com/srktnc/srktnc/raw/master/projects.svg?sanitize=true' alt="Projects" title="Projects" height='70'/></a>
+  <a href="https://twitter.com/srktnc"><img src='https://github.com/srktnc/srktnc/raw/master/tweets.svg?sanitize=true' alt="Tweets" title="Tweets" height='70'/></a>
+   <a href="https://instagram.com/serkan_tunc"><img src='https://github.com/srktnc/srktnc/raw/master/photos.svg?sanitize=true' alt="Photos" title="Photos" height='70'/></a>
+  <a href="https://github.com/sponsors/srktnc"><img src='https://github.com/srktnc/srktnc/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
 </p>
 
 <!--
