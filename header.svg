@@ -75,10 +75,6 @@
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
 				
-				h1:hover{
-					color: yellow;
-				}
-
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
