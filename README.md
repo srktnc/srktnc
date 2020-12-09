@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src='https://github.com/srktnc/srktnc/raw/master/header.svg?sanitize=true' alt="Photos" title="Photos" height='70'/>  
+  <img src='https://github.com/srktnc/srktnc/raw/master/header.svg?sanitize=true' alt="Photos" title="Photos" height='100%'/>  
 </p>
 
 <!--
