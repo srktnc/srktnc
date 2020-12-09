@@ -75,9 +75,6 @@
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
 
-				h1:hover {
-					font-size: 60px;
-				}
 
 				p {
 					font-size: 20px;
@@ -86,7 +83,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Serkan Tunç<br/>Welcome</h1>
+				<h1>Serkan Tunç/h1>
 				<p>Front End Developer</p>
 			</div>
 		</div>
