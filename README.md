@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src='https://github.com/srktnc/srktnc/raw/master/header.svg?sanitize=true' alt="Photos" title="Photos" height='100%'/>  
-</p>
+
 
 <p align="center">
   <a href="https://srktnc.github.info"><img src='https://github.com/srktnc/srktnc/raw/master/me.svg?sanitize=true' alt="Me" title="Me" height='70'/></a>
