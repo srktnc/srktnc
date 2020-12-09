@@ -6,8 +6,12 @@
   <a href="https://spinozanotes.vercel.io"><img src='https://github.com/srktnc/srktnc/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='70'/></a>
   <a href="https://srktnc.github.app"><img src='https://github.com/srktnc/srktnc/raw/master/projects.svg?sanitize=true' alt="Projects" title="Projects" height='70'/></a>
   <a href="https://twitter.com/srktnc"><img src='https://github.com/srktnc/srktnc/raw/master/tweets.svg?sanitize=true' alt="Tweets" title="Tweets" height='70'/></a>
-   <a href="https://instagram.com/serkan_tunc"><img src='https://github.com/srktnc/srktnc/raw/master/photos.svg?sanitize=true' alt="Photos" title="Photos" height='70'/></a>
+  <a href="https://instagram.com/serkan_tunc"><img src='https://github.com/srktnc/srktnc/raw/master/photos.svg?sanitize=true' alt="Photos" title="Photos" height='70'/></a>
   <a href="https://github.com/sponsors/srktnc"><img src='https://github.com/srktnc/srktnc/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
+</p>
+
+<p>
+  <img src='https://github.com/srktnc/srktnc/raw/master/banner.svg?sanitize=true' alt="Photos" title="Photos" height='70'/>  
 </p>
 
 <!--
