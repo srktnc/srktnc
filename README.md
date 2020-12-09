@@ -10,7 +10,7 @@
   <a href="https://github.com/sponsors/srktnc"><img src='https://github.com/srktnc/srktnc/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
 </p>
 
-<p>
+<p align="center">
   <img src='https://github.com/srktnc/srktnc/raw/master/header.svg?sanitize=true' alt="Photos" title="Photos" height='100%'/>  
 </p>
 
